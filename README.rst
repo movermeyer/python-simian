@@ -120,14 +120,14 @@ The above example demonstrates ``external`` patching, but ``internal``
    :target: https://coveralls.io/r/themattrix/python-simian
 .. |Health| image:: https://landscape.io/github/themattrix/python-simian/master/landscape.svg
    :target: https://landscape.io/github/themattrix/python-simian/master
-.. |Version| image:: https://pypip.in/version/simian/badge.svg?text=version
+.. |Version| image:: https://img.shields.io/pypi/v/simian.svg?label=version
     :target: https://pypi.python.org/pypi/simian
-.. |Downloads| image:: https://pypip.in/download/simian/badge.svg
+.. |Downloads| image:: https://img.shields.io/pypi/dm/simian.svg
     :target: https://pypi.python.org/pypi/simian
-.. |Compatibility| image:: https://pypip.in/py_versions/simian/badge.svg
+.. |Compatibility| image:: https://img.shields.io/pypi/pyversions/simian.svg
     :target: https://pypi.python.org/pypi/simian
-.. |Implementations| image:: https://pypip.in/implementation/simian/badge.svg
+.. |Implementations| image:: https://img.shields.io/pypi/implementation/simian.svg
     :target: https://pypi.python.org/pypi/simian
-.. |Format| image:: https://pypip.in/format/simian/badge.svg
+.. |Format| image:: https://img.shields.io/pypi/format/simian.svg
     :target: https://pypi.python.org/pypi/simian
 .. _mock.patch: https://docs.python.org/3/library/unittest.mock.html#patch
